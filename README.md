@@ -25,7 +25,7 @@ Atualmente, dedico meus estudos ao desenvolvimento de softwares, unindo a base t
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanbernardi.a@gmail.com)
 
 ---
 > "Código limpo não é apenas o que funciona, mas o que outro desenvolvedor consegue ler."
