@@ -23,18 +23,6 @@ Atualmente, dedico meus estudos ao desenvolvimento de softwares, unindo a base t
 * 🏗️ Construindo APIs robustas utilizando **Flask**.
 * 🎨 Melhorando a experiência do usuário (UX) em interfaces web.
 
----
-
-### 📊 Minhas Atividades no GitHub
-*(Lembre-se de substituir 'SEU-USUARIO' pelo seu login real abaixo)*
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
