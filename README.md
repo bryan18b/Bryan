@@ -1,39 +1,43 @@
-# Bryan
-# Olá, eu sou o Bryan! 👋
+# 👋 Olá, eu sou o Bryan!
 
-### 🎓 Estudante de Desenvolvimento de Sistemas no SENAI
+### 🎓 Técnico em Desenvolvimento de Sistemas | SENAI
+**Desenvolvedor em formação, focado em criar soluções eficientes e escaláveis.**
 
-Estou a trilhar o meu caminho para me tornar um Desenvolvedor Full Stack. Atualmente, o meu foco no SENAI é construir aplicações robustas, unindo interfaces intuitivas com um backend organizado e bases de dados bem estruturadas.
-
----
-
-### 🛠️ Tecnologias que utilizo:
-
-- **Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-
-- **Backend:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-
-- **Base de Dados:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+Atualmente, dedico meus estudos ao desenvolvimento de softwares, unindo a base teórica do SENAI com a prática constante em projetos pessoais. Tenho facilidade em aprender novas tecnologias e um interesse especial pela arquitetura de sistemas web.
 
 ---
 
-### 🚀 O que estou a desenvolver:
+### 🛠️ Toolbox (Minhas Ferramentas)
 
-- 🔭 Atualmente a aprofundar os meus conhecimentos em **Python + Flask** para criação de APIs.
-- 💾 A praticar modelagem de dados e queries complexas no **MySQL**.
-- 🌱 Sempre focado em melhorar as minhas habilidades em lógica de programação e arquitetura de sistemas.
-
----
-
-### 📫 Vamos conversar?
-
-- **LinkedIn:** [Coloque o link do seu perfil aqui]
-- **E-mail:** [Seu e-mail de contacto]
+| Área | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Frontend** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Versionamento** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-### 📊 Estatísticas:
-![Estatísticas do GitHub do Bryan](https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUARIO&show_icons=true&theme=dark)
+### 🚀 O que estou desenvolvendo no momento:
+* 📘 Aprofundando em **Estrutura de Dados** e Algoritmos.
+* 🏗️ Construindo APIs robustas utilizando **Flask**.
+* 🎨 Melhorando a experiência do usuário (UX) em interfaces web.
+
+---
+
+### 📊 Minhas Atividades no GitHub
+*(Lembre-se de substituir 'SEU-USUARIO' pelo seu login real abaixo)*
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+---
+> "Código limpo não é apenas o que funciona, mas o que outro desenvolvedor consegue ler."
